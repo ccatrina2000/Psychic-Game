@@ -1,0 +1,27 @@
+h1 {
+	font-size: 18px;
+	max-width: 200px;
+}
+
+p {
+	font-size: 18px;
+	text-align: center;
+	margin-top: 0px;
+}
+
+h2 {
+	font-size: 24px;
+	margin-bottom: 0px;
+}
+
+h3 {
+	font-size: 34px;
+	text-align: center;
+}
+
+.Win
+.Loss
+.GuessesLeft
+.GuessesSoFar {
+	float: left;
+}
